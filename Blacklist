@@ -1,14 +1,13 @@
 {
   "bans": [
     {
-      "userId": 4039987147, 
+      "userId": 4039987147,
       "reason": "Blacklist"
     },
-{
-      "userId": 3149814194, 
+    {
+      "userId": 3149814194,
       "reason": "Blacklist"
     }
   ],
-  "pardoned": [
-  ]
+  "pardoned": []
 }
