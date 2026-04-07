@@ -1,8 +1,10 @@
 {
   "bans": [
     {
-      "userId": 4039987147,
+      "userId": 4039987147, 
       "reason": "Blacklist"
     }
+  ],
+  "pardoned": [
   ]
 }
