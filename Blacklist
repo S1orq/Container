@@ -1,13 +1,34 @@
 {
   "bans": [
-    {
-      "userId": 4039987147,
-      "reason": "Blacklist"
-    },
-    {
-      "userId": 3149814194,
-      "reason": "Blacklist"
-    }
+    { "userId": 2623983730, "reason": "Blacklist" },
+    { "userId": 9873266959, "reason": "Blacklist" },
+    { "userId": 1431072149, "reason": "Blacklist" },
+    { "userId": 10415987760, "reason": "Blacklist" },
+    { "userId": 9072092693, "reason": "Blacklist" },
+    { "userId": 2451972683, "reason": "Blacklist" },
+    { "userId": 6149321383, "reason": "Blacklist" },
+    { "userId": 8423774663, "reason": "Blacklist" },
+    { "userId": 9992865140, "reason": "Blacklist" },
+    { "userId": 9233408308, "reason": "Blacklist" },
+    { "userId": 9472127484, "reason": "Blacklist" },
+    { "userId": 3231381585, "reason": "Blacklist" },
+    { "userId": 10149056095, "reason": "Blacklist" },
+    { "userId": 9047011958, "reason": "Blacklist" },
+    { "userId": 9907057319, "reason": "Blacklist" },
+    { "userId": 1837151539, "reason": "Blacklist" },
+    { "userId": 4896086960, "reason": "Blacklist" },
+    { "userId": 9872389276, "reason": "Blacklist" },
+    { "userId": 8895402665, "reason": "Blacklist" },
+    { "userId": 3500850338, "reason": "Blacklist" },
+    { "userId": 6048015163, "reason": "Blacklist" },
+    { "userId": 8432391930, "reason": "Blacklist" },
+    { "userId": 9862244310, "reason": "Blacklist" },
+    { "userId": 5778345783, "reason": "Blacklist" },
+    { "userId": 9889479362, "reason": "Blacklist" },
+    { "userId": 41906323, "reason": "Blacklist" },
+    { "userId": 6028467075, "reason": "Blacklist" },
+    { "userId": 5452431846, "reason": "Blacklist" },
+    { "userId": 1322204376, "reason": "Blacklist" }
   ],
   "pardoned": []
 }
